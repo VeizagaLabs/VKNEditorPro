@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
   "fecha": "2026-06-12",
+  "url": "https://veizagalabs.gumroad.com/l/pqggeg",
   "notas": [
-    "Primera versión pública de VKNEditor Pro",
-    "Corrección ortográfica y gramatical con IA local",
-    "Soporte para Qwen3-4B Q4_K_M"
+    "Primera versión pública de VKNEditor Pro.",
+    "Corrección ortográfica y gramatical con inteligencia artificial 100% local.",
+    "Las correcciones se aplican como Control de Cambios de Word: aceptas o rechazas cada una.",
+    "Panel de control para gestionar el motor de IA, el modelo, el hardware y la licencia.",
+    "Modelo recomendado Qwen3-4B (Q4_K_M), descargable desde el panel."
   ],
-  "url_descarga": "https://github.com/VeizagaLabs/VKNEditorPro/releases/download/v1.0.0/VKNEditorPro-Setup-1.0.0.exe",
-  "url_descarga_offline": "https://github.com/VeizagaLabs/VKNEditorPro/releases/download/v1.0.0/VKNEditorPro-Offline-1.0.0.exe",
-  "minimo_requerido": "1.0.0",
   "critica": false
 }
