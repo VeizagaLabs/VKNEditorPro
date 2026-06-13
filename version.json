@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "fecha": "2026-06-12",
+  "notas": [
+    "Primera versión pública de VKNEditor Pro",
+    "Corrección ortográfica y gramatical con IA local",
+    "Soporte para Qwen3-4B Q4_K_M"
+  ],
+  "url_descarga": "https://github.com/VeizagaLabs/VKNEditorPro/releases/download/v1.0.0/VKNEditorPro-Setup-1.0.0.exe",
+  "url_descarga_offline": "https://github.com/VeizagaLabs/VKNEditorPro/releases/download/v1.0.0/VKNEditorPro-Offline-1.0.0.exe",
+  "minimo_requerido": "1.0.0",
+  "critica": false
+}
