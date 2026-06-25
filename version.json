@@ -1,8 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "fecha": "2026-06-12",
   "url": "https://veizagalabs.gumroad.com/l/pqggeg",
   "notas": [
+    "mejoras:",
+    "1-se arreglo errores",
+    "2-mejora en la correccion",
     "Primera versión pública de VKNEditor Pro.",
     "Corrección ortográfica y gramatical con inteligencia artificial 100% local.",
     "Las correcciones se aplican como Control de Cambios de Word: aceptas o rechazas cada una.",
